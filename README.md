@@ -72,7 +72,7 @@ $$D_{fused} = w_{lidar} \cdot D_{lidar} + w_{radar} \cdot D_{radar}$$
 
 ---
 
-## 📈 Evaluation & Results
+##  Evaluation & Results
 
 The distance estimation logic was evaluated across **110 test frames** against ground-truth dataset annotations:
 
