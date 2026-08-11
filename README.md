@@ -8,7 +8,7 @@ A Sensor Fusion pipeline developed for autonomous vehicle perception. This proje
 
 ---
 
-## 📌 Features
+##  Features
 
 - **Multi-Sensor Data Processing**: Handles JSON calibration matrices, 3D point cloud data from LIDAR, and high-resolution RADAR targets.
 - **Coordinate Transformations**: Converts raw sensor data to a unified Reference Coordinate System and projects 3D spatial points onto 2D camera image planes.
@@ -19,7 +19,7 @@ A Sensor Fusion pipeline developed for autonomous vehicle perception. This proje
 
 ---
 
-## 🏗️ Architecture & Pipeline
+##  Architecture & Pipeline
 
 ```
 ┌─────────────────┐       ┌─────────────────┐       ┌─────────────────┐
@@ -47,7 +47,7 @@ A Sensor Fusion pipeline developed for autonomous vehicle perception. This proje
 
 ---
 
-## 📊 Methodology
+##  Methodology
 
 ### 1. Calibration & Inverse Transformations (`calib_astyx`)
 - Sensor calibration matrices (intrinsic and extrinsic parameters) are parsed from dataset JSON files.
@@ -89,7 +89,7 @@ The distance estimation logic was evaluated across **110 test frames** against g
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
