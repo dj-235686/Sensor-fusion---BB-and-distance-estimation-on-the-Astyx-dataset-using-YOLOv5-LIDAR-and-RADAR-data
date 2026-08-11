@@ -100,7 +100,7 @@ The distance estimation logic was evaluated across **110 test frames** against g
 
 
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - **Dynamic Weighting**: Replace fixed weights ($0.7/0.3$) with dynamic uncertainty estimates based on environmental conditions (e.g., fog, rain, low light).
 - **NaN Handling**: Implement Kalman Filtering or object tracking to bridge frames where YOLO fails to detect vehicles.
@@ -108,6 +108,6 @@ The distance estimation logic was evaluated across **110 test frames** against g
 
 ---
 
-## 👤 Author
+##  Author
 
 **Dhruv Sunilkumar Joshi**  
